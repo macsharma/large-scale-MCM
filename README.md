@@ -13,6 +13,7 @@ All packages except can be found in Anaconda python installation.
 ## Examples
 To run on test dataset for classification run
 1) classification_2D_MCM2.py 
+
 The toolbox gives only two options for algo_type, but choosing C1 = 0 for both MCM and LS-MCM and choosing 'l2' as reg_type results in SVM primal and LS-SVM primal respectively
 
 To run on test dataset for regression run
