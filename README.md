@@ -48,5 +48,5 @@ If you use the code please cite the following papers using the bibtex entry:
 ## Research Paper
 The papers for the same are available at:
 
-http://ieeexplore.ieee.org/abstract/document/7942005/
-https://link.springer.com/article/10.1007/s11063-018-9793-9
+* http://ieeexplore.ieee.org/abstract/document/7942005/
+* https://link.springer.com/article/10.1007/s11063-018-9793-9
